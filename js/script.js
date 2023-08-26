@@ -4,6 +4,7 @@ const swiper = new Swiper('.swiper', {
 		nextEl: '.swiper-button-next',
 		prevEl: '.swiper-button-prev',
 	},
+
 });
 
 let swiperWrap = document.querySelector('.swiper-wrapper');
