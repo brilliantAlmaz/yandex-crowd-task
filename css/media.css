@@ -388,9 +388,6 @@
   .buy__title {
     max-width: 100%;
   }
-  .buy__title br {
-    display: none;
-  }
   .buy__desc {
     max-width: 100%;
   }
